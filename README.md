@@ -49,3 +49,14 @@ When a user makes a choice, the system takes the top five movie recommendations 
 This Movie Recommender System developed in Java uses Apache Mahout's collarbrative-based filtering to supply intelligent personalized recommendations of movies. Adding visually aesthetic features like the movie posters will make the system interactive while creating a balance between utility and looks.
 
 ## OUTPUT ##
+
+Before Selecting the User :
+
+![Image](https://github.com/user-attachments/assets/c11047c2-28d8-4389-bb7e-87efaf086015)
+
+After Selecting the User:(Note you can change mutliple time the user).
+
+![Image](https://github.com/user-attachments/assets/e505e0b6-e3b6-42dd-ac0c-2d471d2a6f0c)
+
+![Image](https://github.com/user-attachments/assets/85e82aaf-80b0-439e-88ca-48e291a57910)
+
