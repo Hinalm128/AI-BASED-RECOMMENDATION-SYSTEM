@@ -12,7 +12,7 @@
 
 "MENTOR": NEELA SANTHOSH
 
-##DESCRIPTION##
+## DESCRIPTION ##
 
 Task 4 : AI-Based Recommendation System
 
