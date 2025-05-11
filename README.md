@@ -14,11 +14,11 @@
 
 ##DESCRIPTION##
 
-Task 3 : Multithreaded Chat Application
+Task 4 : AI-Based Recommendation System
 
 This task is performed using the ‘Eclipse IDE for Java Developers - 2025-03’.
+For easer access of the image, I had created a folder named 'img' and added all the images. Simialarily the data (u.data and the Movies_Final.csv) and the lib (i.e all the .jar files) were added into the project in the eclipse IDE.
 
-Task 4 : AI-Based Recommendation System
 This Java program develops a Movie Recommender System with a graphical interface using Java Swing. This system uses collaborative filtering through Apache Mahout, which is an open-source library for building large-scale recommendation systems. This system is meant to offer personalized recommendations of films to users based on what similar users do.
 
 The single main aim of this program is to enable the user to choose their profile from a list and then see five movie recommendations. The application has a minimal and simple interface with a black background and photos of the recommended films, movie titles, and the degree of how much they can enjoy them. 
